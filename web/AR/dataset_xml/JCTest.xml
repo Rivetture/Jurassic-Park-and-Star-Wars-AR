@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="cart" size="125.000000 119.366951" />
+    <ImageTarget name="Tyrano_Symbol" size="175.000000 132.325134" />
+    <ImageTarget name="Triceratops_Symbol" size="230.000000 173.913040" />
+    <ImageTarget name="Pterosaur_Symbol" size="225.000000 170.132324" />
+    <ImageTarget name="Maiasaura" size="200.000000 200.000000" />
+    <ImageTarget name="Dilophosaurus" size="200.000000 151.228729" />
+    <ImageTarget name="microceratusglyph" size="175.000000 116.494080" />
+    <ImageTarget name="Apatosaurus_Symbol" size="230.000000 173.913040" />
+    <ImageTarget name="VeloceClaw_Symbol" size="175.000000 132.325134" />
+    <ImageTarget name="compyGlyph" size="247.000000 186.767487" />
+    <ImageTarget name="brachiosaurus_Symbol" size="247.000000 186.767487" />
+  </Tracking>
+</QCARConfig>
